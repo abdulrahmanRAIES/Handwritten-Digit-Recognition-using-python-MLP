@@ -1,6 +1,7 @@
 # Handwritten-Digit-Recognition-using-python-MLP
 # Introduction
-this project depends on feature extraction using Histogram of Oriented Gradient (HOG) and Multi-layer Perceptron (MLP)
+this project depends on feature extraction using Histogram of Oriented Gradient (HOG) and Multi-layer Perceptron (MLP).
+It creates a MLP Model 
 
 # Classification Algorithm
 Multi-layer Perceptron (MLP)
