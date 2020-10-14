@@ -1,4 +1,4 @@
-# Handwritten-Digit-Recognition-with-python-MLP
+# Handwritten-Digit-Recognition-using-python-MLP
 USING MLP
 
 
